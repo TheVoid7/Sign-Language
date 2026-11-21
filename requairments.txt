@@ -1,0 +1,5 @@
+mediapipe                 #Google's computer vision library
+opencv-python             #The camera and image library
+scikit-learn              #The machine learning library that gives the Random Forest classifier
+pandas                    # A data-handling library that organizes your extracted hand coordinates into clean tables and saves them as a .csv database file.
+pillow                    #An image-formatting library that lets you display OpenCV webcam video inside a Tkinter window later.
